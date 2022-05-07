@@ -1,4 +1,4 @@
-# HATEOAS-Spring-Guide
+# HATEOAS Spring Guide
 Work-through of the HATEOAS fully-RESTful tutorial found on the official Spring website at https://spring.io/guides/tutorials/rest/
 
 This repository is based on the Building REST services with Spring tutorial. The repository includes a pair of fully RESTful API resources with HATEOAS principles applied where each endpoint hosts links for easy navigation, reference, and interactions with individual or all resources.
